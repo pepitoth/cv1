@@ -48,6 +48,15 @@ export default function Datos() {
             Flavio Torres #927
         </div>    
     </div>
+
+    <div className='data_Frame'>
+        <div className='data_L'>
+            Correo :
+        </div>
+        <div className='data_R'>
+            luistoledo@lhth.cl
+        </div>    
+    </div>
     </>
 
   )

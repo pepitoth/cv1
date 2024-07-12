@@ -35,9 +35,10 @@ export default function Estudios() {
         </div>
         <div className='data_R'>
             <ul>Liceo Politecnico Hannover - enseñanza media completa<br/>
-            Conocimientos adquiridos:<br/><li className='listas'>creacion de circuitos electricos tanto analogos como digitales</li>
+            Conocimientos adquiridos:<br/>
+            <li className='listas'>Creacion de circuitos electricos tanto analogos como digitales</li>
             <li className='listas'>Mantencion en computadore</li>
-            <li>creacion de programas PLC</li>
+            <li className='listas'>Creacion de programas PLC</li>
         </ul>
         </div>    
     </div>
