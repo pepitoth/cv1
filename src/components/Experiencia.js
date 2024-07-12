@@ -3,7 +3,7 @@ import React from 'react'
 export default function experiencia() {
   return (
     <>
-          <h3>Estudios</h3>
+          <h3>Esperiencia laboral</h3>
     <div className='data_Frame'>
         <div className='data_L'>
             2011-2011
