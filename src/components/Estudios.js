@@ -3,7 +3,7 @@ import React from 'react'
 export default function Estudios() {
   return (
     <>
-    <h3>Estudios</h3>
+    <h3 className='titulo'>Estudios</h3>
     <div className='data_Frame'>
         <div className='data_L'>
             1998 - 1999

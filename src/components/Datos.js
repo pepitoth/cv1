@@ -3,7 +3,7 @@ import react from 'react'
 export default function Datos() {
   return (
     <>
-    <h3>Datos personales</h3>
+    <h3 className='titulo'>Datos personales</h3>
     <div className='data_Frame'>
         <div className='data_L'>
             Nombre :
